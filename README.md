@@ -3,7 +3,6 @@
 <!--
 **GraceKnutson/GraceKnutson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![github-readme-topimage](https://github.com/GraceKnutson/GraceKnutson/assets/113193154/8fe73d04-256e-4d9d-b8f8-1b82ab86a156)
 
 My name's Grace (She/Her), and I work with a variety of languages and tools!
 
